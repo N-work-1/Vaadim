@@ -1,0 +1,46 @@
+body{
+  font-size: 20px;
+  font-family:sans-serif;
+  overflow:hidden;
+  background-color:#fff;
+  margin:0;
+  padding:0;
+  line-height: 1.5;
+}
+
+/*header*/
+
+header #header-top{
+  min-height: 2.5em;
+}
+
+header #logo{
+  float:right;
+}
+
+nav ul{
+  padding-left: 2em;
+}
+
+nav li{
+  display: inline;
+  margin:0 15px 0 15px;
+  float:left;
+}
+
+nav a{
+  text-decoration: none;
+  color:black;
+}
+
+.button{
+  padding:5px 8px;
+  border-radius:8px;
+}
+.button:hover{
+  border:2px #B0C4DE solid ;
+}
+h1{
+  background: #B0C4DE;
+  text-align: center;
+}
